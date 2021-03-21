@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://sneha-amruth.github.io/csb-bkf9p/static/js/main.748de0bb.chunk.js",
+    "main.js.map": "https://sneha-amruth.github.io/csb-bkf9p/static/js/main.748de0bb.chunk.js.map",
+    "runtime-main.js": "https://sneha-amruth.github.io/csb-bkf9p/static/js/runtime-main.2ac52561.js",
+    "runtime-main.js.map": "https://sneha-amruth.github.io/csb-bkf9p/static/js/runtime-main.2ac52561.js.map",
+    "static/js/2.87259f1f.chunk.js": "https://sneha-amruth.github.io/csb-bkf9p/static/js/2.87259f1f.chunk.js",
+    "static/js/2.87259f1f.chunk.js.map": "https://sneha-amruth.github.io/csb-bkf9p/static/js/2.87259f1f.chunk.js.map",
+    "index.html": "https://sneha-amruth.github.io/csb-bkf9p/index.html",
+    "static/js/2.87259f1f.chunk.js.LICENSE.txt": "https://sneha-amruth.github.io/csb-bkf9p/static/js/2.87259f1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac52561.js",
+    "static/js/2.87259f1f.chunk.js",
+    "static/js/main.748de0bb.chunk.js"
+  ]
+}
